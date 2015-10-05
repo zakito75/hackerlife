@@ -4,7 +4,7 @@ Les actions possibles sont les suivantes:
 
 . S'inscrire/se connecter
 
-. Créer un lien en y ajoutent un titre et l'url(nécessaire de se connecter car devise est actif)
+. Créer un lien en y ajoutant un titre et l'url(nécessaire de se connecter car la gem devise est actif)
 
 . Editer un lien
 
